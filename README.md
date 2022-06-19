@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning  C/C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on instagram (@syedhassan_69) .
+- 📫 Reach me on instagram (@poeticsyed) .
 
 <!---
 sayedhassan69/sayedhassan69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
